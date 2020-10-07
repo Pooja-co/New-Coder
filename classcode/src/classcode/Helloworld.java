@@ -1,20 +1,9 @@
-/**
- * 
- */
-package classcode;
-
-/**
- * @author Pooja
- *
- */
 public class Helloworld {
-
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	
+	public static void main(String[] args)
+	{
+		
+		System.out.println("Pooja");
 	}
 
 }
